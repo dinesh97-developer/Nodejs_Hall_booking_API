@@ -32,3 +32,6 @@ List how many times a customer has booked the room with below details
     Booking date
     Booking status
 
+
+    https://documenter.getpostman.com/view/31335509/2s9YeLXUS4#e2579b7d-a319-476d-a93f-e64501c7c857
+
